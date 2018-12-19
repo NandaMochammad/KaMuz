@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ka Muz</string>
+    <string name="firstrun">FIRST RUN</string>
+    <string name="cariKata">Insert Word</string>
+    <string name="navigation_drawer_open">Buka Navigation Drawer</string>
+    <string name="navigation_drawer_close">Tutup Navigation Drawer</string>
+    <string name="share">Bagikan</string>
+    <string name="share_description">Lupa arti kata dalam bahasa inggris? Download aplikasi keren ini biar kamu ga bingung!</string>
+    <string name="english_indonesia">English - Indonesia</string>
+    <string name="indonesia_english">Indonesia - English</string>
+    <string name="app_first_run">First Run!</string>
+
+
+</resources>
